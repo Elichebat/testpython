@@ -9,3 +9,5 @@ print("les nombres premier sont:")
 for i in range(2,101):
     if est_premier(i):
         print(i)
+
+print("les nombres non premier sont")
